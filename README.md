@@ -30,6 +30,8 @@
 
 - https://exercism.org/tracks
 
+- https://www.techcareer.net/mainpage/en/
+
 
 
 ### Online Compilers
