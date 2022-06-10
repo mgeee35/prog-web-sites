@@ -50,7 +50,9 @@
 
 - https://coggle.it/diagram/WQsh8JfnlgABEYuB/t/the-functions-and-applications-of-the-5
 
-- 
+- http://intronetworks.cs.luc.edu/current/html/index.html
+
+- https://book.systemsapproach.org/
 
 - https://sdn.systemsapproach.org/
 
