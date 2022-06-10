@@ -24,6 +24,8 @@
 
 - https://www.kaggle.com/
 
+- https://app.patika.dev/
+
 - https://app.codility.com/programmers/
 
 - https://exercism.org/tracks
