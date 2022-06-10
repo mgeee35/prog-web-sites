@@ -40,6 +40,28 @@
 
 
 
+### Java Programming
+
+- https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html
+
+- https://www.injavawetrust.com/
+
+- https://www.seckintozlu.com/effective-java-cevirisi
+
+- http://www.java2s.com/
+
+- https://javaranch.com/
+
+- https://www.java-source.net/
+
+
+
+### Design Patterns
+
+- http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
+
+
+
 ### Online Compilers
 
 - https://www.browxy.com/
@@ -49,6 +71,8 @@
 - https://www.jdoodle.com/
 
 - https://replit.com/languages/c
+
+
 
 ### Networking
 
