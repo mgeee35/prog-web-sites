@@ -24,6 +24,8 @@
 
 - https://www.kaggle.com/
 
+- https://www.codingame.com/start
+
 - https://app.patika.dev/
 
 - https://app.codility.com/programmers/
