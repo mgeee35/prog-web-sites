@@ -24,6 +24,8 @@
 
 - https://www.kaggle.com/
 
+- https://www.hackerearth.com/
+
 - https://www.codingame.com/start
 
 - https://app.patika.dev/
