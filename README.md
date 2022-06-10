@@ -48,6 +48,8 @@
 
 ### Networking
 
+- https://coggle.it/diagram/WQsh8JfnlgABEYuB/t/the-functions-and-applications-of-the-5
+
 - 
 
 - https://sdn.systemsapproach.org/
