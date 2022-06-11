@@ -8,6 +8,8 @@
 
 - https://www.guru99.com/
 
+- https://www.javatpoint.com/
+
 - https://www.softwaretestinghelp.com/
 
 
@@ -179,8 +181,6 @@
 - https://javabeginnerstutorial.com/
 
 - https://gelecegiyazanlar.turkcell.com.tr/egitimler
-
-- https://www.javatpoint.com/
 
 - https://www.knowprogram.com/
 
