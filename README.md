@@ -110,9 +110,13 @@
 
 - https://learn-c.org/
 
+- https://www.learn-cpp.org/
+
 - https://www.learncpp.com/
 
 - https://cppquiz.org/
+
+- https://www.csystem.org/
 
 - http://plepa.com/
 
