@@ -86,6 +86,40 @@
 
 
 
+### Programming Languages Websites
+
+- https://roadmap.sh/
+
+- https://project-awesome.org/liuchong/awesome-roadmaps
+
+- https://www.geeksforgeeks.org/
+
+- https://www.tutorialspoint.com/index.htm
+
+- https://www.w3schools.com/
+
+- https://www.demo2s.com/
+
+- https://www.softwaretestinghelp.com/
+
+- https://online.dr-chuck.com/
+
+- https://gelecegiyazanlar.turkcell.com.tr/egitimler
+
+- https://www.guru99.com/
+
+- https://www.javatpoint.com/
+
+- https://www.knowprogram.com/
+
+- https://www.sololearn.com/
+
+- https://www.codecademy.com/catalog
+
+- https://devurls.com/
+
+
+
 ### Online Compilers
 
 - https://www.browxy.com/
@@ -111,4 +145,14 @@
 - https://5g.systemsapproach.org/
 
 - https://www.grotto-networking.com/
+
+
+
+### Open Courses
+
+- https://eacikkaynak.com/kurslar
+
+- https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A21
+
+- https://open.sap.com/
 
