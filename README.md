@@ -40,6 +40,16 @@
 
 
 
+### C/C++ Programming
+
+- https://en.cppreference.com/w/c/language
+
+- https://en.cppreference.com/w/cpp/language
+
+- https://www.learncpp.com/
+
+
+
 ### Java Programming
 
 - https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html
@@ -47,6 +57,10 @@
 - https://www.injavawetrust.com/
 
 - https://www.seckintozlu.com/effective-java-cevirisi
+
+- https://codingbat.com/java
+
+- https://www.baeldung.com/
 
 - http://www.java2s.com/
 
@@ -56,9 +70,19 @@
 
 
 
+### Python Programming
+
+- https://python-istihza.yazbel.com/
+
+- https://codingbat.com/python
+
+
+
 ### Design Patterns
 
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
+
+- https://refactoring.guru/
 
 
 
