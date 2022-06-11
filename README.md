@@ -12,6 +12,20 @@
 
 - https://algorithm-visualizer.org/
 
+- https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
+
+- https://acikders.tuba.gov.tr/course/view.php?id=133
+
+- https://acikders.ankara.edu.tr/course/view.php?id=3608
+
+- https://ita.skanev.com/
+
+- https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+
+- https://tektasi.net/algoritma/
+
+- https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
+
 - http://cslibrary.stanford.edu/
 
 
@@ -163,6 +177,10 @@
 - https://5g.systemsapproach.org/
 
 - https://www.grotto-networking.com/
+
+- https://www.ece.rutgers.edu/~marsic/books/CN/
+
+- https://www.btk.gov.tr/uploads/announcements/5g-ve-otesi-beyaz-kitap/5g-beyaz-kitap-yeni.pdf
 
 
 
