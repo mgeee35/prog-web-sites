@@ -190,6 +190,8 @@
 
 - https://www.btk.gov.tr/uploads/announcements/5g-ve-otesi-beyaz-kitap/5g-beyaz-kitap-yeni.pdf
 
+- http://gumuskaya.com/Books/index-jap.htm
+
 
 
 ### Open Courses
