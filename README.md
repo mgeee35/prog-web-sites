@@ -146,25 +146,29 @@
 
 - https://www.seckintozlu.com/effective-java-cevirisi
 
-- https://github.com/melihsakarya/java-kitap
+- https://codingbat.com/java
+
+- https://javabeginnerstutorial.com/
+
+- https://www.journaldev.com/
 
 - https://programmingbydoing.com/
 
-- https://codingbat.com/java
-
-- https://www.baeldung.com/
+- http://www.java2s.com/
 
 - https://www.javamex.com/
 
-- http://www.java2s.com/
+- https://mkyong.com/
 
-- https://javaranch.com/
+- https://www.baeldung.com/
 
 - https://www.java-source.net/
 
-- https://mkyong.com/
+- https://github.com/melihsakarya/java-kitap
 
 - https://blog.burakkutbay.com/
+
+- https://javaranch.com/
 
 - https://spring.io/guides
 
@@ -189,10 +193,6 @@
 - https://www.demo2s.com/
 
 - https://online.dr-chuck.com/
-
-- https://www.journaldev.com/
-
-- https://javabeginnerstutorial.com/
 
 - https://gelecegiyazanlar.turkcell.com.tr/egitimler
 
