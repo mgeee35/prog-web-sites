@@ -18,7 +18,13 @@
 
 - https://www.softwaretestinghelp.com/
 
+- https://www.programiz.com/
+
+- https://www.w3schools.com/
+
 - https://www.w3schools.in/
+
+- https://goalkicker.com/
 
 
 
@@ -179,12 +185,6 @@
 
 
 ### Programming Languages Websites
-
-- https://goalkicker.com/
-
-- https://www.w3schools.com/
-
-- https://www.programiz.com/
 
 - https://www.demo2s.com/
 
