@@ -130,7 +130,7 @@
 
 
 
-### Design Patterns
+### Design Patterns & Clean Code
 
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
 
@@ -139,6 +139,8 @@
 - https://sourcemaking.com/
 
 - http://www.w3sdesign.com/
+
+- https://www.uml.org/
 
 
 
