@@ -176,6 +176,8 @@
 
 - https://devurls.com/
 
+- https://www.mobilhanem.com/
+
 
 
 ### Online Compilers
@@ -207,6 +209,8 @@
 - https://www.grotto-networking.com/
 
 - https://www.ece.rutgers.edu/~marsic/books/CN/
+
+- https://www.w3.org/
 
 - https://www.btk.gov.tr/uploads/announcements/5g-ve-otesi-beyaz-kitap/5g-beyaz-kitap-yeni.pdf
 
