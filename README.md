@@ -6,6 +6,8 @@
 
 - https://www.tutorialspoint.com/index.htm
 
+- https://www.guru99.com/
+
 - https://www.softwaretestinghelp.com/
 
 
@@ -177,8 +179,6 @@
 - https://javabeginnerstutorial.com/
 
 - https://gelecegiyazanlar.turkcell.com.tr/egitimler
-
-- https://www.guru99.com/
 
 - https://www.javatpoint.com/
 
