@@ -1,4 +1,10 @@
-# Algorithm & Programming Language Websites
+# Algorithm & Programming Websites
+
+### Linux Guide
+
+- https://linuxcommandlibrary.com/basics
+
+
 
 ### All About Software
 
@@ -80,6 +86,20 @@
 
 
 
+### Design Patterns & Clean Code
+
+- http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
+
+- https://refactoring.guru/
+
+- https://sourcemaking.com/
+
+- http://www.w3sdesign.com/
+
+- https://www.uml.org/
+
+
+
 ### C/C++ Programming
 
 - https://en.cppreference.com/w/c/language
@@ -99,6 +119,16 @@
 
 
 ### Java Programming
+
+- https://docs.oracle.com/javase/tutorial/index.html
+
+- https://devdocs.io/openjdk~11/
+
+- https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+
+- https://devdocs.io/openjdk~8/
+
+- https://docs.oracle.com/javase/8/docs/api/index.html
 
 - https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html
 
@@ -126,15 +156,11 @@
 
 - https://blog.burakkutbay.com/
 
-- https://devdocs.io/openjdk~11/
-
-- https://docs.oracle.com/en/java/javase/11/docs/api/index.html
-
-- https://devdocs.io/openjdk~8/
-
-- https://docs.oracle.com/javase/8/docs/api/index.html
-
 - https://spring.io/guides
+
+- https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html
+
+- https://www.oracle.com/java/technologies/javase/java-tutorial-downloads.html
 
 
 
@@ -145,20 +171,6 @@
 - https://codingbat.com/python
 
 - https://djangogirls.org/en/resources/
-
-
-
-### Design Patterns & Clean Code
-
-- http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
-
-- https://refactoring.guru/
-
-- https://sourcemaking.com/
-
-- http://www.w3sdesign.com/
-
-- https://www.uml.org/
 
 
 
@@ -238,9 +250,13 @@
 
 ### Open Courses
 
+- https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A21
+
 - https://eacikkaynak.com/kurslar
 
-- https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A21
+- https://acikders.tuba.gov.tr/course/index.php?categoryid=38
+
+- https://acikders.ankara.edu.tr/course/index.php?categoryid=18
 
 - https://open.sap.com/
 
