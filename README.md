@@ -12,9 +12,9 @@
 
 - https://www.tutorialspoint.com/index.htm
 
-- https://www.guru99.com/
-
 - https://www.javatpoint.com/
+
+- https://www.guru99.com/
 
 - https://www.softwaretestinghelp.com/
 
