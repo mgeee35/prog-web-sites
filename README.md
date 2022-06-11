@@ -122,6 +122,8 @@
 
 - https://codingbat.com/python
 
+- https://djangogirls.org/en/resources/
+
 
 
 ### Design Patterns
