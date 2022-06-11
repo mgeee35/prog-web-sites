@@ -70,6 +70,8 @@
 
 - https://en.cppreference.com/w/cpp/language
 
+- https://learn-c.org/
+
 - https://www.learncpp.com/
 
 
