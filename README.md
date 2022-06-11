@@ -114,6 +114,8 @@
 
 - https://docs.oracle.com/javase/7/docs/api/index.html
 
+- https://docs.oracle.com/javase/specs/
+
 - https://www.oracle.com/java/technologies/javase-jdk17-doc-downloads.html
 
 - https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html
