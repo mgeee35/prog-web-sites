@@ -58,6 +58,8 @@
 
 - https://www.topcoder.com/
 
+- https://www.sololearn.com/
+
 
 
 ### C/C++ Programming
@@ -158,7 +160,7 @@
 
 - https://www.knowprogram.com/
 
-- https://www.sololearn.com/
+- https://www.w3resource.com/
 
 - https://www.codecademy.com/catalog
 
