@@ -26,15 +26,15 @@
 
 - https://www.hackerearth.com/
 
-- https://www.codingame.com/start
+- https://www.techcareer.net/mainpage/en/
 
 - https://app.patika.dev/
+
+- https://www.codingame.com/start
 
 - https://app.codility.com/programmers/
 
 - https://exercism.org/tracks
-
-- https://www.techcareer.net/mainpage/en/
 
 - https://www.codechef.com/
 
