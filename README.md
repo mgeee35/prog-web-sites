@@ -82,6 +82,8 @@
 
 - https://github.com/melihsakarya/java-kitap
 
+- https://code-exercises.com/
+
 - https://programmingbydoing.com/
 
 - https://codingbat.com/java
