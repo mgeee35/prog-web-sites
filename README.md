@@ -40,6 +40,10 @@
 
 - https://code-exercises.com/
 
+- https://projecteuler.net/
+
+- https://exercism.org/tracks
+
 - https://www.hackerearth.com/
 
 - https://www.techcareer.net/mainpage/en/
@@ -50,17 +54,11 @@
 
 - https://app.codility.com/programmers/
 
-- https://exercism.org/tracks
-
 - https://www.codechef.com/
-
-- https://projecteuler.net/
-
-- https://codeforces.com/
 
 - https://www.topcoder.com/
 
-- https://www.sololearn.com/
+- https://codeforces.com/
 
 
 
