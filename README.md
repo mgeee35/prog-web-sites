@@ -146,6 +146,8 @@
 
 - https://online.dr-chuck.com/
 
+- https://www.journaldev.com/
+
 - https://javabeginnerstutorial.com/
 
 - https://gelecegiyazanlar.turkcell.com.tr/egitimler
