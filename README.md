@@ -76,6 +76,8 @@
 
 - https://www.learncpp.com/
 
+- https://cppquiz.org/
+
 
 
 ### Java Programming
@@ -145,6 +147,8 @@
 - https://roadmap.sh/
 
 - https://project-awesome.org/liuchong/awesome-roadmaps
+
+- https://goalkicker.com/
 
 - https://www.geeksforgeeks.org/
 
@@ -219,6 +223,8 @@
 - https://www.btk.gov.tr/uploads/announcements/5g-ve-otesi-beyaz-kitap/5g-beyaz-kitap-yeni.pdf
 
 - http://gumuskaya.com/Books/index-jap.htm
+
+- https://google-gruyere.appspot.com/
 
 
 
