@@ -64,6 +64,8 @@
 
 - https://www.seckintozlu.com/effective-java-cevirisi
 
+- https://github.com/melihsakarya/java-kitap
+
 - https://codingbat.com/java
 
 - https://www.baeldung.com/
@@ -97,6 +99,8 @@
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
 
 - https://refactoring.guru/
+
+- http://www.w3sdesign.com/
 
 
 
