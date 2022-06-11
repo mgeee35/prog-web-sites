@@ -1,5 +1,15 @@
 # Algorithm & Programming Language Websites
 
+### All About Software
+
+- https://www.geeksforgeeks.org/
+
+- https://www.tutorialspoint.com/index.htm
+
+- https://www.softwaretestinghelp.com/
+
+
+
 ### Algorithm Websites
 
 - https://www.bigocheatsheet.com/
@@ -152,10 +162,6 @@
 
 - https://goalkicker.com/
 
-- https://www.geeksforgeeks.org/
-
-- https://www.tutorialspoint.com/index.htm
-
 - https://www.w3schools.com/
 
 - https://www.programiz.com/
@@ -163,8 +169,6 @@
 - https://www.w3schools.in/
 
 - https://www.demo2s.com/
-
-- https://www.softwaretestinghelp.com/
 
 - https://online.dr-chuck.com/
 
