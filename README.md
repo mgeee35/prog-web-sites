@@ -38,6 +38,8 @@
 
 - https://www.kaggle.com/
 
+- https://code-exercises.com/
+
 - https://www.hackerearth.com/
 
 - https://www.techcareer.net/mainpage/en/
@@ -81,8 +83,6 @@
 - https://www.seckintozlu.com/effective-java-cevirisi
 
 - https://github.com/melihsakarya/java-kitap
-
-- https://code-exercises.com/
 
 - https://programmingbydoing.com/
 
