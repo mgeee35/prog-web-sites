@@ -90,6 +90,10 @@
 
 - https://codeforces.com/
 
+- https://codingbat.com/java
+
+- https://codingbat.com/python
+
 
 
 ### Design Patterns & Clean Code
@@ -146,8 +150,6 @@
 
 - https://www.seckintozlu.com/effective-java-cevirisi
 
-- https://codingbat.com/java
-
 - https://javabeginnerstutorial.com/
 
 - https://www.journaldev.com/
@@ -181,8 +183,6 @@
 ### Python Programming
 
 - https://python-istihza.yazbel.com/
-
-- https://codingbat.com/python
 
 - https://djangogirls.org/en/resources/
 
