@@ -68,6 +68,14 @@
 
 - https://www.java-source.net/
 
+- https://devdocs.io/openjdk~11/
+
+- https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+
+- https://devdocs.io/openjdk~8/
+
+- https://docs.oracle.com/javase/8/docs/api/index.html
+
 
 
 ### Python Programming
