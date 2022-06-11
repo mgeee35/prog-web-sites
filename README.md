@@ -96,6 +96,34 @@
 
 
 
+### Java API & Tutorial
+
+- https://docs.oracle.com/javase/tutorial/index.html
+
+- https://docs.oracle.com/en/java/javase/17/docs/api/index.html
+
+- https://devdocs.io/openjdk~17/
+
+- https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+
+- https://devdocs.io/openjdk~11/
+
+- https://docs.oracle.com/javase/8/docs/api/index.html
+
+- https://devdocs.io/openjdk~8/
+
+- https://docs.oracle.com/javase/7/docs/api/index.html
+
+- https://www.oracle.com/java/technologies/javase-jdk17-doc-downloads.html
+
+- https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html
+
+- https://www.oracle.com/java/technologies/javase-jdk8-doc-downloads.html
+
+- https://www.oracle.com/java/technologies/javase/java-tutorial-downloads.html
+
+
+
 ### Design Patterns & Clean Code
 
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
@@ -129,34 +157,6 @@
 - https://www.csystem.org/
 
 - http://plepa.com/
-
-
-
-### Java API & Tutorial
-
-- https://docs.oracle.com/javase/tutorial/index.html
-
-- https://docs.oracle.com/en/java/javase/17/docs/api/index.html
-
-- https://devdocs.io/openjdk~17/
-
-- https://docs.oracle.com/en/java/javase/11/docs/api/index.html
-
-- https://devdocs.io/openjdk~11/
-
-- https://docs.oracle.com/javase/8/docs/api/index.html
-
-- https://devdocs.io/openjdk~8/
-
-- https://docs.oracle.com/javase/7/docs/api/index.html
-
-- https://www.oracle.com/java/technologies/javase-jdk17-doc-downloads.html
-
-- https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html
-
-- https://www.oracle.com/java/technologies/javase-jdk8-doc-downloads.html
-
-- https://www.oracle.com/java/technologies/javase/java-tutorial-downloads.html
 
 
 
