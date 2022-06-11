@@ -84,6 +84,8 @@
 
 - https://www.baeldung.com/
 
+- https://www.javamex.com/
+
 - http://www.java2s.com/
 
 - https://javaranch.com/
