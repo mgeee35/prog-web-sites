@@ -96,6 +96,8 @@
 
 - https://mkyong.com/
 
+- https://blog.burakkutbay.com/
+
 - https://devdocs.io/openjdk~11/
 
 - https://docs.oracle.com/en/java/javase/11/docs/api/index.html
