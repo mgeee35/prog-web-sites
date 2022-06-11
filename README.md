@@ -122,6 +122,8 @@
 
 - https://www.oracle.com/java/technologies/javase/java-tutorial-downloads.html
 
+- https://www.oracle.com/java/technologies/java-tutorials.html
+
 
 
 ### Design Patterns & Clean Code
