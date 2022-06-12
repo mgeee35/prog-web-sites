@@ -74,6 +74,8 @@
 
 - https://exercism.org/tracks
 
+- https://zoj.pintia.cn/
+
 - https://www.hackerearth.com/
 
 - https://www.techcareer.net/mainpage/en/
@@ -134,6 +136,8 @@
 
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
 
+- https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak
+
 - https://www.oodesign.com/
 
 - https://refactoring.guru/
@@ -176,6 +180,8 @@
 
 - https://www.seckintozlu.com/effective-java-cevirisi
 
+- https://blog.burakkutbay.com/
+
 - https://javabeginnerstutorial.com/
 
 - https://www.journaldev.com/
@@ -193,8 +199,6 @@
 - https://www.java-source.net/
 
 - https://github.com/melihsakarya/java-kitap
-
-- https://blog.burakkutbay.com/
 
 - https://javaranch.com/
 
