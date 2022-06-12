@@ -132,6 +132,8 @@
 
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
 
+- https://www.oodesign.com/
+
 - https://refactoring.guru/
 
 - https://sourcemaking.com/
