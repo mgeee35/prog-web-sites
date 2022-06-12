@@ -80,6 +80,8 @@
 
 - https://app.patika.dev/
 
+- https://www.codewars.com/
+
 - https://www.codingame.com/start
 
 - https://app.codility.com/programmers/
