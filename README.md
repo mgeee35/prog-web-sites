@@ -174,6 +174,8 @@
 
 ### Java Programming
 
+- https://www.javacoffeebreak.com/
+
 - https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html
 
 - https://www.injavawetrust.com/
