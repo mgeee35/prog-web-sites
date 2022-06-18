@@ -176,6 +176,8 @@
 
 - https://www.javacoffeebreak.com/
 
+- https://www.javacoffeebreak.com/books/extracts/javanotesv3/index.html
+
 - https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html
 
 - https://www.injavawetrust.com/
