@@ -166,6 +166,8 @@
 
 - https://cppquiz.org/
 
+- https://cliutils.gitlab.io/modern-cmake/
+
 - https://www.csystem.org/
 
 - http://plepa.com/
@@ -313,5 +315,13 @@
 - https://roadmap.sh/
 
 - https://project-awesome.org/liuchong/awesome-roadmaps
+
+
+
+### Version Control Systems
+
+- https://git-scm.com/
+
+- https://learngitbranching.js.org/
 
 
