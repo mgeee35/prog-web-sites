@@ -216,6 +216,8 @@
 
 - https://python-istihza.yazbel.com/
 
+- https://pyscript.net/
+
 - https://djangogirls.org/en/resources/
 
 
