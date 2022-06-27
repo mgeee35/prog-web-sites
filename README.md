@@ -244,6 +244,16 @@
 
 - https://sqlzoo.net/wiki/SQL_Tutorial
 
+- https://www.techonthenet.com/index.php
+
+- https://mode.com/sql-tutorial/
+
+- https://university.mongodb.com/courses/catalog
+
+- https://fireship.io/lessons/top-seven-database-paradigms/
+
+- https://tudip.com/blog-post/7-database-paradigms/
+
 
 
 ### Programming Languages Websites
