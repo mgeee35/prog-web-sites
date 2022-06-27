@@ -363,3 +363,11 @@
 - https://learngitbranching.js.org/
 
 
+
+### Web Security
+
+- https://portswigger.net/web-security/learning-path
+
+- https://google-gruyere.appspot.com/
+
+
