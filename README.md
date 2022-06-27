@@ -216,9 +216,33 @@
 
 - https://python-istihza.yazbel.com/
 
+- https://www.learnpython.org/
+
 - https://pyscript.net/
 
 - https://djangogirls.org/en/resources/
+
+
+
+### JavaScript Programming
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+- https://www.javascripttutorial.net/
+
+- https://www.learn-js.org/
+
+- https://javascript.info/
+
+- https://eloquentjavascript.net/
+
+
+
+### SQL Programming
+
+- https://sqlzoo.net/wiki/SQL_Tutorial
 
 
 
@@ -246,15 +270,17 @@
 
 ### Online Compilers
 
+- https://www.onlinegdb.com/
+
 - https://www.browxy.com/
 
-- https://www.onlinegdb.com/
+- https://replit.com/languages/c
 
 - https://ideone.com/
 
 - https://www.jdoodle.com/
 
-- https://replit.com/languages/c
+- https://jsfiddle.net/ (just combined of HTML, CSS & JS)
 
 
 
