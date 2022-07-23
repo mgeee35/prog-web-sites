@@ -4,6 +4,8 @@
 
 - https://linuxcommandlibrary.com/basics
 
+- http://www.belgeler.org/
+
 
 
 ### All About Software
@@ -238,6 +240,8 @@
 
 - https://eloquentjavascript.net/
 
+- https://bonsaiden.github.io/JavaScript-Garden/
+
 
 
 ### SQL Programming
@@ -257,6 +261,8 @@
 
 
 ### Programming Languages Websites
+
+- https://ebookfoundation.github.io/free-programming-books/
 
 - https://www.demo2s.com/
 
@@ -365,6 +371,8 @@
 
 
 ### Web Security
+
+- https://guvenlik.oyd.org.tr/
 
 - https://portswigger.net/web-security/learning-path
 
