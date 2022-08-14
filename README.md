@@ -6,6 +6,10 @@
 
 - http://www.belgeler.org/
 
+- https://www.theurbanpenguin.com/scripting-power-repetition/
+
+- https://www.theurbanpenguin.com/operating-system-tutorials/
+
 
 
 ### All About Software
