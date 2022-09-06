@@ -226,6 +226,8 @@
 
 - https://pyscript.net/
 
+- https://realpython.com/
+
 - https://djangogirls.org/en/resources/
 
 
@@ -279,6 +281,8 @@
 - https://www.w3resource.com/
 
 - https://www.codecademy.com/catalog
+
+- https://riptutorial.com/
 
 - https://devurls.com/
 
