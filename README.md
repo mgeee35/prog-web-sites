@@ -176,6 +176,8 @@
 
 - https://www.csystem.org/
 
+- https://github.com/CSD-1993/KursNotlari
+
 - http://plepa.com/
 
 
