@@ -170,6 +170,8 @@
 
 - https://www.learncpp.com/
 
+- https://hackingcpp.com/
+
 - https://cppquiz.org/
 
 - https://cliutils.gitlab.io/modern-cmake/
