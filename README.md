@@ -294,6 +294,8 @@
 
 - https://www.mobilhanem.com/
 
+- https://dzone.com/refcardz/
+
 
 
 ### Online Compilers
