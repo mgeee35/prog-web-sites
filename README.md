@@ -278,7 +278,7 @@
 
 - https://online.dr-chuck.com/
 
-- https://gelecegiyazanlar.turkcell.com.tr/egitimler
+- https://gelecegiyazanlar.turkcell.com.tr/egitimler (TR)
 
 - https://www.knowprogram.com/
 
@@ -290,9 +290,13 @@
 
 - https://devurls.com/
 
-- https://erdincuzun.com/
+- https://erdincuzun.com/ (TR)
 
-- https://www.mobilhanem.com/
+- https://adys.nku.edu.tr/OpenCourse (TR)
+
+- https://www.youtube.com/channel/UCGmUNJWKC64XMFHJ2UzZwUw/playlists (TR)
+
+- https://www.mobilhanem.com/ (TR)
 
 - https://dzone.com/refcardz/
 
