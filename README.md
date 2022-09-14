@@ -190,13 +190,13 @@
 
 - https://www.javacoffeebreak.com/books/extracts/javanotesv3/index.html
 
-- https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html
+- https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html (TR)
 
-- https://www.injavawetrust.com/
+- https://www.injavawetrust.com/ (TR)
 
-- https://www.seckintozlu.com/effective-java-cevirisi
+- https://www.seckintozlu.com/effective-java-cevirisi (TR)
 
-- https://blog.burakkutbay.com/
+- https://blog.burakkutbay.com/ (TR)
 
 - https://javabeginnerstutorial.com/
 
@@ -214,7 +214,7 @@
 
 - https://www.java-source.net/
 
-- https://github.com/melihsakarya/java-kitap
+- https://github.com/melihsakarya/java-kitap (TR)
 
 - https://javaranch.com/
 
@@ -224,7 +224,7 @@
 
 ### Python Programming
 
-- https://python-istihza.yazbel.com/
+- https://python-istihza.yazbel.com/ (TR)
 
 - https://www.learnpython.org/
 
