@@ -390,7 +390,7 @@
 
 ### Web Security
 
-- https://guvenlik.oyd.org.tr/
+- https://guvenlik.oyd.org.tr/ (TR)
 
 - https://portswigger.net/web-security/learning-path
 
