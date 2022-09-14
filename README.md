@@ -86,7 +86,7 @@
 
 - https://www.techcareer.net/mainpage/en/
 
-- https://app.patika.dev/
+- https://app.patika.dev/ (TR)
 
 - https://www.codewars.com/
 
