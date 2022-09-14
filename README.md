@@ -336,9 +336,9 @@
 
 - https://www.w3.org/
 
-- https://www.btk.gov.tr/uploads/announcements/5g-ve-otesi-beyaz-kitap/5g-beyaz-kitap-yeni.pdf
+- https://www.btk.gov.tr/uploads/announcements/5g-ve-otesi-beyaz-kitap/5g-beyaz-kitap-yeni.pdf (TR)
 
-- http://gumuskaya.com/Books/index-jap.htm
+- http://gumuskaya.com/Books/index-jap.htm (TR)
 
 - https://google-gruyere.appspot.com/
 
@@ -348,11 +348,11 @@
 
 - https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A21
 
-- https://eacikkaynak.com/kurslar
+- https://eacikkaynak.com/kurslar (TR)
 
-- https://acikders.tuba.gov.tr/course/index.php?categoryid=38
+- https://acikders.tuba.gov.tr/course/index.php?categoryid=38 (TR)
 
-- https://acikders.ankara.edu.tr/course/index.php?categoryid=18
+- https://acikders.ankara.edu.tr/course/index.php?categoryid=18 (TR)
 
 - https://open.sap.com/
 
