@@ -48,9 +48,9 @@
 
 - https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
 
-- https://acikders.tuba.gov.tr/course/view.php?id=133
+- https://acikders.tuba.gov.tr/course/view.php?id=133 (TR)
 
-- https://acikders.ankara.edu.tr/course/view.php?id=3608
+- https://acikders.ankara.edu.tr/course/view.php?id=3608 (TR)
 
 - https://ita.skanev.com/
 
@@ -58,7 +58,7 @@
 
 - https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
-- https://tektasi.net/algoritma/
+- https://tektasi.net/algoritma/ (TR)
 
 - https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
 
