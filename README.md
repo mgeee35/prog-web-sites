@@ -4,7 +4,7 @@
 
 - https://linuxcommandlibrary.com/basics
 
-- http://www.belgeler.org/
+- http://www.belgeler.org/ (TR)
 
 - https://www.theurbanpenguin.com/scripting-power-repetition/
 
