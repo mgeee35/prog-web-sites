@@ -176,11 +176,11 @@
 
 - https://cliutils.gitlab.io/modern-cmake/
 
-- https://www.csystem.org/
+- https://www.csystem.org/ (TR)
 
-- https://github.com/CSD-1993/KursNotlari
+- https://github.com/CSD-1993/KursNotlari (TR)
 
-- http://plepa.com/
+- http://plepa.com/ (TR)
 
 
 
