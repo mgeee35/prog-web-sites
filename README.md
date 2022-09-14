@@ -140,9 +140,9 @@
 
 ### Design Patterns & Clean Code
 
-- http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp
+- http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp (TR)
 
-- https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak
+- https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak (TR)
 
 - https://www.oodesign.com/
 
