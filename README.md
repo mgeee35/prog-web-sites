@@ -10,6 +10,8 @@
 
 - https://www.theurbanpenguin.com/operating-system-tutorials/
 
+- https://www.ucanlinux.com/ (TR)
+
 
 
 ### All About Software
