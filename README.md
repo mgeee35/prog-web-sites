@@ -182,6 +182,8 @@
 
 - https://github.com/CSD-1993/KursNotlari (TR)
 
+- https://murtuzayevsahil.files.wordpress.com/2013/03/c_kitap.pdf (TR)
+
 - http://plepa.com/ (TR)
 
 - https://github.com/isocpp/CppCoreGuidelines
