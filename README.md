@@ -184,6 +184,8 @@
 
 - http://plepa.com/ (TR)
 
+- https://github.com/isocpp/CppCoreGuidelines
+
 
 
 ### Java Programming
@@ -227,6 +229,10 @@
 ### Python Programming
 
 - https://python-istihza.yazbel.com/ (TR)
+
+- https://python-course.eu/
+
+- https://pyformat.info/
 
 - https://www.learnpython.org/
 
