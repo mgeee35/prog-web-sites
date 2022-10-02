@@ -266,12 +266,6 @@
 
 
 
-### RegEx (Regular Expression)
-
-- https://regexr.com/
-
-
-
 ### SQL Programming
 
 - https://sqlzoo.net/wiki/SQL_Tutorial
@@ -317,6 +311,12 @@
 - https://www.mobilhanem.com/ (TR)
 
 - https://dzone.com/refcardz/
+
+
+
+### RegEx (Regular Expression)
+
+- https://regexr.com/
 
 
 
