@@ -234,6 +234,8 @@
 
 - https://python-course.eu/
 
+- https://pymotw.com/3/
+
 - https://pyformat.info/
 
 - https://www.learnpython.org/
@@ -261,6 +263,12 @@
 - https://eloquentjavascript.net/
 
 - https://bonsaiden.github.io/JavaScript-Garden/
+
+
+
+### RegEx (Regular Expression)
+
+- https://regexr.com/
 
 
 
