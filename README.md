@@ -34,6 +34,8 @@
 
 - https://goalkicker.com/
 
+- https://github.com/mtdvio/every-programmer-should-know
+
 
 
 ### Algorithm Websites
@@ -317,6 +319,8 @@
 ### RegEx (Regular Expression)
 
 - https://regexr.com/
+
+- https://github.com/ziishaned/learn-regex
 
 
 
