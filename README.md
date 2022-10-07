@@ -324,6 +324,20 @@
 
 
 
+### UML Tools (Free)
+
+- https://www.eclipse.org/papyrus/
+
+- [easyUML](https://github.com/mgeee35/easyUML)
+
+- [ObjectAid UML]()
+
+- https://plantuml.com/
+
+- 
+
+
+
 ### Online Compilers & Editors
 
 - https://www.onlinegdb.com/
