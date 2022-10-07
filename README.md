@@ -330,7 +330,7 @@
 
 - [easyUML](https://github.com/mgeee35/easyUML)
 
-- [ObjectAid UML Explorer]()
+- [ObjectAid UML Explorer](https://github.com/mgeee35/ObjectAid-UML-Explorer)
 
 - [PlantUML](https://plantuml.com/)
 
