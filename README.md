@@ -326,15 +326,23 @@
 
 ### UML Tools (Free)
 
-- https://www.eclipse.org/papyrus/
+- [Eclipse Papyrus](https://www.eclipse.org/papyrus/)
 
 - [easyUML](https://github.com/mgeee35/easyUML)
 
-- [ObjectAid UML]()
+- [ObjectAid UML Explorer]()
 
-- https://plantuml.com/
+- [PlantUML](https://plantuml.com/)
 
-- 
+- [UML Designer](https://www.umldesigner.org/)
+
+- [Jar2UML](https://github.com/dwagelaar/jar2uml)
+
+- [Class Visualizer](https://www.class-visualizer.net/index.html)
+
+- [UML Graph](https://www.spinellis.gr/umlgraph/index.html)
+
+- [jsUML2](http://www.jrromero.net/tools/jsUML2)
 
 
 
