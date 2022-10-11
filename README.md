@@ -192,6 +192,8 @@
 
 - https://github.com/isocpp/CppCoreGuidelines
 
+- https://www.cs.utah.edu/~germain/PPS/Topics/index.html
+
 
 
 ### Java Programming
@@ -244,6 +246,12 @@
 
 - https://www.learnpython.org/
 
+- https://matplotlib.org/stable/index.html
+
+- https://numpy.org/
+
+- https://pandas.pydata.org/
+
 - https://pyscript.net/
 
 - https://realpython.com/
@@ -283,6 +291,8 @@
 - https://fireship.io/lessons/top-seven-database-paradigms/
 
 - https://tudip.com/blog-post/7-database-paradigms/
+
+- https://remotemysql.com/#home
 
 
 
