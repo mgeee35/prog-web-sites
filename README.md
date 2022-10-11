@@ -12,6 +12,8 @@
 
 - https://www.ucanlinux.com/ (TR)
 
+- [Özgür Yazılım Felsefesi ve Free Software Song](https://www.youtube.com/watch?v=zchAFawXSnc)
+
 
 
 ### All About Software
