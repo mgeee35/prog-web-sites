@@ -374,7 +374,7 @@
 
 - https://codebrowser.dev/
 
-- https://jsfiddle.net/  (just combined of HTML, CSS & JS)
+- https://jsfiddle.net/  (just combined of HTML, CSS, JS & JS libraries and frameworks)
 
 - https://codepen.io/pen/ (just combined of HTML, CSS & JS)
 
