@@ -282,6 +282,10 @@
 
 - https://sqlzoo.net/wiki/SQL_Tutorial
 
+- https://nosqlzoo.net/wiki/Main_Page
+
+- https://www.sqlitetutorial.net/
+
 - https://www.techonthenet.com/index.php
 
 - https://mode.com/sql-tutorial/
@@ -437,6 +441,12 @@
 - https://zerobin.net/
 
 - https://dpaste.org/
+
+- https://bpa.st/
+
+- https://paste.centos.org/
+
+- https://nekobin.com/
 
 
 
