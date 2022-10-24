@@ -46,6 +46,8 @@
 
 - https://the-algorithms.com/
 
+- https://github.com/TheAlgorithms
+
 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 - https://visualgo.net/en
