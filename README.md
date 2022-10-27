@@ -418,6 +418,8 @@
 
 - https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A21
 
+- https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science
+
 - https://www.open.edu/openlearn/
 
 - https://eacikkaynak.com/kurslar (TR)
