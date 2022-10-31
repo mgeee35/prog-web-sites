@@ -340,6 +340,8 @@
 
 - https://regexr.com/
 
+- https://regex101.com/
+
 - https://github.com/ziishaned/learn-regex
 
 
@@ -373,6 +375,8 @@
 - https://www.browxy.com/
 
 - https://replit.com/languages/c
+
+- https://www.mycompiler.io/
 
 - https://ideone.com/
 
