@@ -248,6 +248,12 @@
 
 - https://pyformat.info/
 
+- https://pythondocs.xyz/
+
+- https://github.com/pamoroso/free-python-books
+
+- https://twitter.com/mathsppblog/status/1430108219872002048 (240+ modules Std Lib)
+
 - https://www.learnpython.org/
 
 - https://matplotlib.org/stable/index.html
