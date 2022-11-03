@@ -392,6 +392,8 @@
 
 - https://codebrowser.dev/
 
+- https://wandbox.org/
+
 - https://jsfiddle.net/  (just combined of HTML, CSS, JS & JS libraries and frameworks)
 
 - https://codepen.io/pen/ (just combined of HTML, CSS & JS)
@@ -456,7 +458,7 @@
 
 - https://rentry.co/
 
-- https://zerobin.net/
+- https://0bin.net/
 
 - https://dpaste.org/
 
@@ -465,6 +467,8 @@
 - https://paste.centos.org/
 
 - https://nekobin.com/
+
+- https://linkode.org/
 
 
 
