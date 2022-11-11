@@ -302,6 +302,10 @@
 
 - https://mode.com/sql-tutorial/
 
+- https://www.sql-practice.com/
+
+- https://datalemur.com/
+
 - https://university.mongodb.com/courses/catalog
 
 - https://fireship.io/lessons/top-seven-database-paradigms/
