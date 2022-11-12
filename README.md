@@ -198,6 +198,10 @@
 
 - https://www.cs.utah.edu/~germain/PPS/Topics/index.html
 
+- http://www.crasseux.com/books/ctutorial/index.html
+
+- http://markburgess.org/CTutorial/GNU-ctut.pdf
+
 
 
 ### Java Programming
@@ -267,6 +271,8 @@
 - https://pyscript.net/
 
 - https://realpython.com/
+
+- https://cs.stanford.edu/people/nick/py/
 
 - https://djangogirls.org/en/resources/
 
@@ -501,5 +507,11 @@
 - https://portswigger.net/web-security/learning-path
 
 - https://google-gruyere.appspot.com/
+
+
+
+### Public APIs
+
+- https://github.com/public-apis/public-apis
 
 
