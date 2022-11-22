@@ -96,6 +96,8 @@
 
 - https://www.techcareer.net/mainpage/en/
 
+- https://edabit.com/challenges
+
 - https://app.patika.dev/ (TR)
 
 - https://www.codewars.com/
