@@ -296,6 +296,8 @@
 
 - https://bonsaiden.github.io/JavaScript-Garden/
 
+- https://www.typescriptlang.org/
+
 
 
 ### SQL Programming
@@ -326,6 +328,10 @@
 
 ### Programming Languages Websites
 
+- https://devdocs.io/
+
+- https://overapi.com/
+
 - https://ebookfoundation.github.io/free-programming-books/
 
 - https://www.demo2s.com/
@@ -351,6 +357,8 @@
 - https://www.youtube.com/channel/UCGmUNJWKC64XMFHJ2UzZwUw/playlists (TR)
 
 - https://www.mobilhanem.com/ (TR)
+
+- https://go.kaanksc.com/kitap-hakkinda/giris (TR)
 
 - https://dzone.com/refcardz/
 
@@ -515,5 +523,13 @@
 ### Public APIs
 
 - https://github.com/public-apis/public-apis
+
+
+
+### Music
+
+- http://radio.garden/
+
+- https://coderadio.freecodecamp.org/
 
 
