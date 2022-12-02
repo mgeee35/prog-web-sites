@@ -248,6 +248,8 @@
 
 ### Python Programming
 
+- https://wiki.python.org/moin/
+
 - https://python-istihza.yazbel.com/ (TR)
 
 - https://python-course.eu/
