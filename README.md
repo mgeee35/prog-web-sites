@@ -364,6 +364,10 @@
 
 - https://dzone.com/refcardz/
 
+- https://www.newthinktank.com/
+
+- https://www.youtube.com/@derekbanas/playlists
+
 
 
 ### RegEx (Regular Expression)
