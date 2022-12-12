@@ -368,6 +368,10 @@
 
 - https://www.youtube.com/@derekbanas/playlists
 
+- https://www.yusufsezer.com.tr/ (TR)
+
+- https://www.gencayyildiz.com/blog/ (TR)
+
 
 
 ### RegEx (Regular Expression)
