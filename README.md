@@ -100,6 +100,8 @@
 
 - https://app.patika.dev/ (TR)
 
+- https://www.freecodecamp.org/learn/
+
 - https://www.codewars.com/
 
 - https://www.codingame.com/start
