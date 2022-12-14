@@ -166,6 +166,10 @@
 
 - http://www.w3sdesign.com/
 
+- https://www.javacamp.org/designPattern/index.html
+
+- https://www.javacamp.org/moreclasses/oop/oop.html
+
 - https://www.uml.org/
 
 
@@ -245,6 +249,12 @@
 - https://javaranch.com/
 
 - https://spring.io/guides
+
+- https://www.javacamp.org/index.html
+
+- https://www.javacamp.org/scjp/whatsnew16.html (new in J2SE5&6&7)
+
+- https://www.javacamp.org/javavscsharp/index.html (Java vs C#)
 
 
 
