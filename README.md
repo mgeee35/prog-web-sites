@@ -4,6 +4,10 @@
 
 - https://linuxcommandlibrary.com/basics
 
+- https://linux-dersleri.github.io/ (TR)
+
+- https://tldp.org/guides.html
+
 - http://www.belgeler.org/ (TR)
 
 - https://www.theurbanpenguin.com/scripting-power-repetition/
@@ -415,6 +419,8 @@
 - [UML Graph](https://www.spinellis.gr/umlgraph/index.html)
 
 - [jsUML2](http://www.jrromero.net/tools/jsUML2)
+
+- https://github.com/bkryza/clang-uml
 
 
 
