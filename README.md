@@ -500,7 +500,7 @@
 
 - https://pastebin.pl/
 
-- https://pst.klgrth.io/
+- https://pastehub.net/
 
 - https://pastecode.io/
 
