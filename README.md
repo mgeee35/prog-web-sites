@@ -100,7 +100,7 @@
 
 - https://app.patika.dev/ (TR)
 
-- https://www.techcareer.net/
+- https://www.techcareer.net/ (TR)
 
 - https://edabit.com/challenges
 
