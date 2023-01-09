@@ -98,11 +98,11 @@
 
 - https://www.hackerearth.com/
 
-- https://www.techcareer.net/mainpage/en/
+- https://app.patika.dev/ (TR)
+
+- https://www.techcareer.net/
 
 - https://edabit.com/challenges
-
-- https://app.patika.dev/ (TR)
 
 - https://www.freecodecamp.org/learn/
 
