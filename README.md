@@ -6,6 +6,8 @@
 
 - https://linux-dersleri.github.io/ (TR)
 
+- https://linux-yonetimi.veriteknik.net.tr/ (TR)
+
 - https://tldp.org/guides.html
 
 - http://www.belgeler.org/ (TR)
@@ -17,6 +19,8 @@
 - https://www.ucanlinux.com/ (TR)
 
 - [Free Software Philosophy & Song](https://www.youtube.com/watch?v=zchAFawXSnc) (TR)
+
+- https://github.com/kivisade/kernel-purge
 
 
 
@@ -214,6 +218,8 @@
 
 - http://markburgess.org/CTutorial/GNU-ctut.pdf
 
+- https://github.com/ioccc-src
+
 
 
 ### Java Programming
@@ -260,6 +266,8 @@
 
 - https://www.javacamp.org/javavscsharp/index.html (Java vs C#)
 
+- https://rifatshahriyar.github.io/CSE107.html
+
 
 
 ### Python Programming
@@ -267,6 +275,8 @@
 - https://wiki.python.org/moin/
 
 - https://python-istihza.yazbel.com/ (TR)
+
+- https://python.yemreak.com/ (TR)
 
 - https://python-course.eu/
 
@@ -316,6 +326,8 @@
 
 - https://www.typescriptlang.org/
 
+- https://github.com/bradtraversy/vanillawebprojects
+
 
 
 ### SQL Programming
@@ -349,6 +361,8 @@
 - https://devdocs.io/
 
 - https://overapi.com/
+
+- https://acikkaynakfikirler.com/egitimler/ (TR)
 
 - https://ebookfoundation.github.io/free-programming-books/
 
@@ -387,6 +401,10 @@
 - https://www.yusufsezer.com.tr/ (TR)
 
 - https://www.gencayyildiz.com/blog/ (TR)
+
+- https://www.digitalocean.com/community/tutorials
+
+- https://reactivex.io/languages.html
 
 
 
@@ -474,7 +492,9 @@
 
 - http://gumuskaya.com/Books/index-jap.htm (TR)
 
-- https://google-gruyere.appspot.com/
+- https://github.com/5GEVE
+
+- https://github.com/omercaylan/SocketProject
 
 
 
@@ -536,15 +556,29 @@
 
 - https://learngitbranching.js.org/
 
+- https://sourcegraph.com/search
+
+- https://aliozgur.gitbooks.io/git101/content/ (TR)
+
+- https://github.com/aliozgur/git_alistirmalar (TR)
 
 
-### Web Security
+
+### Security
 
 - https://guvenlik.oyd.org.tr/ (TR)
 
 - https://portswigger.net/web-security/learning-path
 
 - https://google-gruyere.appspot.com/
+
+- https://github.com/Hack-with-Github/Awesome-Hacking
+
+- https://www.spiderfoot.net/
+
+- https://github.com/smicallef/spiderfoot
+
+- https://github.com/wiire-a/pixiewps
 
 
 
