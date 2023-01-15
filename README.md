@@ -496,6 +496,8 @@
 
 - https://github.com/omercaylan/SocketProject
 
+- [PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos/playlists)
+
 
 
 ### Open Courses
