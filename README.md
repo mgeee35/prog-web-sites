@@ -274,6 +274,8 @@
 
 - https://wiki.python.org/moin/
 
+- https://docs.python.org/3/py-modindex.html (240+ modules Std Lib)
+
 - https://python-istihza.yazbel.com/ (TR)
 
 - https://python.yemreak.com/ (TR)
@@ -287,8 +289,6 @@
 - https://pythondocs.xyz/
 
 - https://github.com/pamoroso/free-python-books
-
-- https://twitter.com/mathsppblog/status/1430108219872002048 (240+ modules Std Lib)
 
 - https://www.learnpython.org/
 
