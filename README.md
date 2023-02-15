@@ -8,6 +8,10 @@
 
 - https://linux-yonetimi.veriteknik.net.tr/ (TR)
 
+- https://sulincix.github.io/sayfalar/ (TR)
+
+- http://cayfer.bilkent.edu.tr/~cayfer/ (TR)
+
 - https://tldp.org/guides.html
 
 - http://www.belgeler.org/ (TR)
@@ -21,6 +25,12 @@
 - [Free Software Philosophy & Song](https://www.youtube.com/watch?v=zchAFawXSnc) (TR)
 
 - https://github.com/kivisade/kernel-purge
+
+- https://wiki.gentoo.org/wiki/Portage
+
+- https://linuxcommand.org/tlcl.php
+
+- https://unixtime.org/
 
 
 
@@ -45,6 +55,10 @@
 - https://goalkicker.com/
 
 - https://github.com/mtdvio/every-programmer-should-know
+
+- https://www.30dayscoding.com/
+
+- https://hotexamples.com/
 
 
 
@@ -80,6 +94,8 @@
 
 - http://cslibrary.stanford.edu/
 
+- https://www.eeweb.com/tools/math-help/
+
 
 
 ### Interview Preparation & Challenges
@@ -89,6 +105,8 @@
 - https://leetcode.com/
 
 - https://neetcode.io/practice
+
+- https://coderbyte.com/
 
 - https://www.kaggle.com/
 
@@ -125,6 +143,8 @@
 - https://codingbat.com/java
 
 - https://codingbat.com/python
+
+- [Coding Interview Prep](https://app.milanote.com/1OxHtP1BLpyfdF/coding-interview-prep?p=CZjjQp7wdRy)
 
 
 
@@ -280,6 +300,8 @@
 
 - https://python.yemreak.com/ (TR)
 
+- https://ilkermanap.github.io/ (TR)
+
 - https://python-course.eu/
 
 - https://pymotw.com/3/
@@ -298,11 +320,21 @@
 
 - https://pandas.pydata.org/
 
+- https://beeware.org/
+
+- https://flet.dev/
+
+- https://nuitka.net/
+
+- https://www.fabfile.org/
+
 - https://pyscript.net/
 
 - https://realpython.com/
 
 - https://cs.stanford.edu/people/nick/py/
+
+- https://duchesnay.github.io/pystatsml/
 
 - https://djangogirls.org/en/resources/
 
@@ -406,6 +438,8 @@
 
 - https://reactivex.io/languages.html
 
+- https://www.programmingoneonone.com/
+
 
 
 ### RegEx (Regular Expression)
@@ -415,6 +449,10 @@
 - https://regex101.com/
 
 - https://github.com/ziishaned/learn-regex
+
+- https://vigex.netlify.app/
+
+- https://github.com/kumartul/Vigex
 
 
 
@@ -467,6 +505,8 @@
 - https://codepen.io/pen/ (just combined of HTML, CSS & JS)
 
 - https://jsoncrack.com/ (just JSON)
+
+- http://codepad.org/
 
 
 
@@ -564,6 +604,16 @@
 
 - https://github.com/aliozgur/git_alistirmalar (TR)
 
+- https://rogerdudler.github.io/git-guide/index.tr.html (TR)
+
+- https://gist.github.com/alexpchin/dc91e723d4db5018fef8#file-setting_upa_new_repo-md
+
+- https://engineeringfordatascience.com/posts/how_to_manage_multiple_git_accounts_on_the_same_machine/
+
+- https://cli.github.com/manual/
+
+- https://codeberg.org/
+
 
 
 ### Security
@@ -582,11 +632,17 @@
 
 - https://github.com/wiire-a/pixiewps
 
+- https://bilgiguvenligi.org.tr/bilgi-merkezi/ (TR)
+
+- https://www.youtube.com/@OpenSecurityTraining
+
 
 
 ### Public APIs
 
 - https://github.com/public-apis/public-apis
+
+- https://openweathermap.org/
 
 
 
