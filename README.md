@@ -94,6 +94,8 @@
 
 - http://cslibrary.stanford.edu/
 
+- https://github.com/trekhleb/javascript-algorithms
+
 - https://www.eeweb.com/tools/math-help/
 
 
@@ -199,6 +201,8 @@
 - https://www.javacamp.org/moreclasses/oop/oop.html
 
 - https://www.uml.org/
+
+- https://github.com/ryanmcdermott/clean-code-javascript
 
 
 
@@ -314,6 +318,8 @@
 
 - https://www.learnpython.org/
 
+- https://www.hackinscience.org/
+
 - https://matplotlib.org/stable/index.html
 
 - https://numpy.org/
@@ -360,6 +366,12 @@
 
 - https://github.com/bradtraversy/vanillawebprojects
 
+- https://javascript30.com/
+
+- https://github.com/wesbos/JavaScript30
+
+- https://github.com/lydiahallie/javascript-questions
+
 
 
 ### SQL Programming
@@ -385,6 +397,10 @@
 - https://tudip.com/blog-post/7-database-paradigms/
 
 - https://remotemysql.com/#home
+
+- https://sqlite.org/wasm/doc/trunk/index.md
+
+- https://sql.js.org/#/
 
 
 
