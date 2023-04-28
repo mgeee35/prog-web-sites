@@ -344,6 +344,10 @@
 
 - https://www.fabfile.org/
 
+- https://pyjnius.readthedocs.io/en/stable/
+
+- https://www.pythonanywhere.com/
+
 - https://pyscript.net/
 
 - https://realpython.com/
@@ -471,6 +475,8 @@
 - https://www.yusufsezer.com.tr/ (TR)
 
 - https://www.gencayyildiz.com/blog/ (TR)
+
+- https://yasar11732.github.io/
 
 - https://www.digitalocean.com/community/tutorials
 
