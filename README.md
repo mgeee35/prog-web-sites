@@ -462,6 +462,10 @@
 
 - https://www.programmingoneonone.com/
 
+- https://www.mindluster.com/
+
+- https://alison.com/
+
 
 
 ### RegEx (Regular Expression)
