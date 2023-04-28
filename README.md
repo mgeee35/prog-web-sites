@@ -476,7 +476,7 @@
 
 - https://www.gencayyildiz.com/blog/ (TR)
 
-- https://yasar11732.github.io/
+- https://yasar11732.github.io/ (TR)
 
 - https://www.digitalocean.com/community/tutorials
 
