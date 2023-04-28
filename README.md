@@ -244,9 +244,9 @@
 
 - https://makefiletutorial.com/
 
-- [https://www.youtube.com/@CSDVideoChannel/videos](CSD Youtube) (TR)
+- [https://www.youtube.com/@CSDVideoChannel/videos](CSD Youtube)
 
-- [https://www.youtube.com/@necatiergin/playlists](Necati Ergin Youtube) (TR)
+- [https://www.youtube.com/@necatiergin/playlists](Necati Ergin Youtube)
 
 - https://github.com/ioccc-src
 
