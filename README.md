@@ -564,6 +564,8 @@
 
 - [PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos/playlists)
 
+- https://skillsforall.com/
+
 
 
 ### Open Courses
