@@ -542,6 +542,10 @@
 
 - https://jsoncrack.com/ (just JSON)
 
+- https://app.quicktype.io/ (just JSON)
+
+- https://dartj.web.app/#/ (just JSON)
+
 - http://codepad.org/
 
 
