@@ -242,6 +242,12 @@
 
 - http://markburgess.org/CTutorial/GNU-ctut.pdf
 
+- https://makefiletutorial.com/
+
+- [https://www.youtube.com/@CSDVideoChannel/videos](CSD Youtube) (TR)
+
+- [https://www.youtube.com/@necatiergin/playlists](Necati Ergin Youtube) (TR)
+
 - https://github.com/ioccc-src
 
 
