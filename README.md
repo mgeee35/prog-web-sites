@@ -328,6 +328,8 @@
 
 - https://pandas.pydata.org/
 
+- https://fastapi.tiangolo.com/
+
 - https://beeware.org/
 
 - https://flet.dev/
@@ -373,6 +375,14 @@
 - https://github.com/wesbos/JavaScript30
 
 - https://github.com/lydiahallie/javascript-questions
+
+- https://medium.com/@ahmtcntrn74 (TR)
+
+- https://www.npmjs.com/package/passport
+
+- https://www.npmjs.com/package/sails
+
+- https://www.npmjs.com/package/socket.io
 
 
 
@@ -669,6 +679,16 @@
 - https://tryhackme.com/
 
 - https://www.hackthebox.com/
+
+- https://www.cybrary.it/
+
+- https://engineering.purdue.edu/kak/compsec/
+
+- https://d4v1dh4yt3r.medium.com/ (TR)
+
+- https://osintframework.com/
+
+- https://github.com/0xJin/awesome-bugbounty-builder
 
 
 
