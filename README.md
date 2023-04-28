@@ -304,6 +304,8 @@
 
 - https://python.yemreak.com/ (TR)
 
+- https://github.com/hirelaxstudio/python_tutorial_tr/ (TR)
+
 - https://ilkermanap.github.io/ (TR)
 
 - https://python-course.eu/
@@ -655,6 +657,12 @@
 - https://bilgiguvenligi.org.tr/bilgi-merkezi/ (TR)
 
 - https://www.youtube.com/@OpenSecurityTraining
+
+- https://www.hackerone.com/
+
+- https://tryhackme.com/
+
+- https://www.hackthebox.com/
 
 
 
