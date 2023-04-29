@@ -702,6 +702,8 @@
 
 - https://engineering.purdue.edu/kak/compsec/
 
+- https://web.cs.hacettepe.edu.tr/~abc/teaching/ (TR)
+
 - https://d4v1dh4yt3r.medium.com/ (TR)
 
 - https://osintframework.com/
