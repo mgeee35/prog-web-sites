@@ -330,6 +330,8 @@
 
 - https://www.hackinscience.org/
 
+- https://pytube.io/en/latest/
+
 - https://matplotlib.org/stable/index.html
 
 - https://numpy.org/
