@@ -350,6 +350,10 @@
 
 - https://pyjnius.readthedocs.io/en/stable/
 
+- https://api.arcade.academy/en/latest/
+
+- https://www.pygame.org/news
+
 - https://www.pythonanywhere.com/
 
 - https://pyscript.net/
@@ -539,6 +543,8 @@
 - https://www.browxy.com/
 
 - https://replit.com/languages/c
+
+- https://onecompiler.com/
 
 - https://www.mycompiler.io/
 
