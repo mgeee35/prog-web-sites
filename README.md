@@ -98,6 +98,8 @@
 
 - https://github.com/trekhleb/javascript-algorithms
 
+- https://sp23.datastructur.es/
+
 - https://www.eeweb.com/tools/math-help/
 
 
