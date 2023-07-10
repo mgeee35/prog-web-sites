@@ -16,6 +16,8 @@
 
 - http://www.belgeler.org/ (TR)
 
+- http://www.yolinux.com/
+
 - https://www.theurbanpenguin.com/scripting-power-repetition/
 
 - https://www.theurbanpenguin.com/operating-system-tutorials/
@@ -327,6 +329,8 @@
 - https://pythondocs.xyz/
 
 - https://github.com/pamoroso/free-python-books
+
+- https://www.pyturk.com/ (TR)
 
 - https://www.learnpython.org/
 
