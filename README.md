@@ -190,6 +190,8 @@
 
 ### Design Patterns & Clean Code
 
+- https://rules.sonarsource.com/
+
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp (TR)
 
 - https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak (TR)
@@ -255,6 +257,8 @@
 - [Necati Ergin Youtube](https://www.youtube.com/@necatiergin/playlists) (TR)
 
 - https://github.com/ioccc-src
+
+- https://www.linkedin.com/pulse/yoda-notation-may-force-you-alper-yazar
 
 
 
