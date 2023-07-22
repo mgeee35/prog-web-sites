@@ -372,6 +372,8 @@
 
 - https://www.pygame.org/news
 
+- https://www.renpy.org/
+
 - https://pyscript.net/
 
 - https://realpython.com/
