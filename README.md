@@ -260,9 +260,9 @@
 
 - https://makefiletutorial.com/
 
-- [CSD Youtube](https://www.youtube.com/@CSDVideoChannel/videos) (TR)
+- https://www.youtube.com/@CSDVideoChannel/videos (TR)
 
-- [Necati Ergin Youtube](https://www.youtube.com/@necatiergin/playlists) (TR)
+- https://www.youtube.com/@necatiergin/playlists (TR)
 
 - https://github.com/ioccc-src
 
@@ -283,6 +283,8 @@
 - https://www.injavawetrust.com/ (TR)
 
 - https://www.seckintozlu.com/effective-java-cevirisi (TR)
+
+- https://www.youtube.com/@FurkanSonmez10/playlists (TR)
 
 - https://blog.burakkutbay.com/ (TR)
 
@@ -706,7 +708,7 @@
 
 - https://bilgiguvenligi.org.tr/bilgi-merkezi/ (TR)
 
-- https://www.youtube.com/@OpenSecurityTraining
+- https://www.youtube.com/@OpenSecurityTraining/playlists
 
 - https://www.hackerone.com/
 
