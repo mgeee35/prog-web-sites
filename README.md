@@ -58,7 +58,15 @@
 
 - https://github.com/mtdvio/every-programmer-should-know
 
-- https://www.30dayscoding.com/
+- https://erdincuzun.com/ (TR)
+
+- https://www.youtube.com/@erdincuzun59/playlists (TR)
+
+- https://adys.nku.edu.tr/OpenCourse (TR)
+
+- https://www.yusufsezer.com.tr/ (TR)
+
+- https://www.mobilhanem.com/ (TR)
 
 - https://hotexamples.com/
 
@@ -364,8 +372,6 @@
 
 - https://www.pygame.org/news
 
-- https://www.pythonanywhere.com/
-
 - https://pyscript.net/
 
 - https://realpython.com/
@@ -452,8 +458,6 @@
 
 - https://overapi.com/
 
-- https://vercel.com/
-
 - https://acikkaynakfikirler.com/egitimler/ (TR)
 
 - https://ebookfoundation.github.io/free-programming-books/
@@ -474,14 +478,6 @@
 
 - https://devurls.com/
 
-- https://erdincuzun.com/ (TR)
-
-- https://adys.nku.edu.tr/OpenCourse (TR)
-
-- https://www.youtube.com/channel/UCGmUNJWKC64XMFHJ2UzZwUw/playlists (TR)
-
-- https://www.mobilhanem.com/ (TR)
-
 - https://go.kaanksc.com/kitap-hakkinda/giris (TR)
 
 - https://dzone.com/refcardz/
@@ -489,8 +485,6 @@
 - https://www.newthinktank.com/
 
 - https://www.youtube.com/@derekbanas/playlists
-
-- https://www.yusufsezer.com.tr/ (TR)
 
 - https://www.gencayyildiz.com/blog/ (TR)
 
@@ -505,6 +499,8 @@
 - https://www.mindluster.com/
 
 - https://alison.com/
+
+- https://www.30dayscoding.com/
 
 
 
@@ -727,6 +723,16 @@
 - https://osintframework.com/
 
 - https://github.com/0xJin/awesome-bugbounty-builder
+
+
+
+### Deployment
+
+- https://www.pythonanywhere.com/
+
+- https://vercel.com/
+
+- https://render.com/
 
 
 
