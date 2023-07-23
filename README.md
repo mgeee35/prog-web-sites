@@ -637,6 +637,12 @@
 - [PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos/playlists)
 
 - https://skillsforall.com/
+  
+- https://www.comm.utoronto.ca/~jorg/teaching/ece1545/
+
+- https://www.comm.utoronto.ca/hypercast/index.html
+
+- https://sp-pifo.ethz.ch/
 
 
 
