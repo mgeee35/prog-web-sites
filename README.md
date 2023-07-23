@@ -220,6 +220,8 @@
 
 - https://github.com/ryanmcdermott/clean-code-javascript
 
+- https://github.com/Badacadabra/JavaScript-Design-Patterns
+
 
 
 ### C/C++ Programming
@@ -579,6 +581,8 @@
 - https://dartj.web.app/#/ (just JSON)
 
 - http://codepad.org/
+
+- https://cppinsights.io/ (just Cpp)
 
 
 
