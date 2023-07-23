@@ -388,6 +388,26 @@
 
 - https://djangogirls.org/en/resources/
 
+- https://beta.ruff.rs/docs/
+
+- https://flake8.pycqa.org/en/latest/
+
+- https://github.com/PyCQA/autoflake
+
+- https://github.com/PyCQA/pyflakes
+
+- https://www.pylint.org/
+
+- https://pycodestyle.pycqa.org/en/latest/
+
+- https://www.pydocstyle.org/en/stable/
+
+- https://mypy-lang.org/
+
+- https://black.readthedocs.io/en/stable/
+
+- https://bandit.readthedocs.io/en/latest/
+
 
 
 ### JavaScript Programming
