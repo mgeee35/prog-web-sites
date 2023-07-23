@@ -398,6 +398,8 @@
 
 - https://www.pylint.org/
 
+- https://pycqa.github.io/isort/
+
 - https://pycodestyle.pycqa.org/en/latest/
 
 - https://www.pydocstyle.org/en/stable/
