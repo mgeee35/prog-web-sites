@@ -646,6 +646,48 @@
 
 
 
+### Security
+
+- https://guvenlik.oyd.org.tr/ (TR)
+
+- https://portswigger.net/web-security/learning-path
+
+- https://google-gruyere.appspot.com/
+
+- https://github.com/Hack-with-Github/Awesome-Hacking
+
+- https://www.spiderfoot.net/
+
+- https://github.com/smicallef/spiderfoot
+
+- https://github.com/wiire-a/pixiewps
+
+- https://bilgiguvenligi.org.tr/bilgi-merkezi/ (TR)
+
+- https://www.youtube.com/@OpenSecurityTraining/playlists
+
+- https://www.hackerone.com/
+
+- https://tryhackme.com/
+
+- https://www.hackthebox.com/
+
+- https://www.cybrary.it/
+
+- https://engineering.purdue.edu/kak/compsec/
+
+- https://web.cs.hacettepe.edu.tr/~abc/teaching/ (TR)
+
+- https://d4v1dh4yt3r.medium.com/ (TR)
+
+- https://osintframework.com/
+
+- https://github.com/0xJin/awesome-bugbounty-builder
+
+- https://www.youtube.com/@siberguvenlikveyazilim/playlists (TR)
+
+
+
 ### Open Courses
 
 - https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A21
@@ -719,46 +761,6 @@
 - https://cli.github.com/manual/
 
 - https://codeberg.org/
-
-
-
-### Security
-
-- https://guvenlik.oyd.org.tr/ (TR)
-
-- https://portswigger.net/web-security/learning-path
-
-- https://google-gruyere.appspot.com/
-
-- https://github.com/Hack-with-Github/Awesome-Hacking
-
-- https://www.spiderfoot.net/
-
-- https://github.com/smicallef/spiderfoot
-
-- https://github.com/wiire-a/pixiewps
-
-- https://bilgiguvenligi.org.tr/bilgi-merkezi/ (TR)
-
-- https://www.youtube.com/@OpenSecurityTraining/playlists
-
-- https://www.hackerone.com/
-
-- https://tryhackme.com/
-
-- https://www.hackthebox.com/
-
-- https://www.cybrary.it/
-
-- https://engineering.purdue.edu/kak/compsec/
-
-- https://web.cs.hacettepe.edu.tr/~abc/teaching/ (TR)
-
-- https://d4v1dh4yt3r.medium.com/ (TR)
-
-- https://osintframework.com/
-
-- https://github.com/0xJin/awesome-bugbounty-builder
 
 
 
