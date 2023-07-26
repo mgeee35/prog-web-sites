@@ -68,6 +68,8 @@
 
 - https://www.mobilhanem.com/ (TR)
 
+- https://reconshell.com/
+
 - https://hotexamples.com/
 
 - https://pythontutor.com/
@@ -221,6 +223,8 @@
 - https://github.com/ryanmcdermott/clean-code-javascript
 
 - https://github.com/Badacadabra/JavaScript-Design-Patterns
+
+- https://reconshell.com/javascript-design-patterns/
 
 
 
