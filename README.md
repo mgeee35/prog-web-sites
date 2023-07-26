@@ -320,6 +320,8 @@
 
 - https://rifatshahriyar.github.io/CSE107.html
 
+- https://www.youtube.com/@KesifPlus/playlists (TR)
+
 
 
 ### Python Programming
