@@ -726,6 +726,10 @@
 
 - https://www.youtube.com/@elanktronik1338/playlists (TR)
 
+- https://www.youtube.com/@debug3279/playlists (TR)
+
+- https://www.youtube.com/@skara1214/videos (TR)
+
 - https://www.youtube.com/@electrobrains/playlists (TR)
 
 - https://www.youtube.com/@teknolab1926/playlists (TR)
@@ -735,6 +739,16 @@
 - https://www.youtube.com/@EnesCicekEmbeddedSystems/videos (TR)
 
 - https://www.youtube.com/@farukgoksu9088/playlists (TR)
+
+- https://www.youtube.com/@mkaanalsancak/playlists (TR)
+
+- https://www.youtube.com/@berkanonderkaramelek8866/playlists (TR)
+
+- https://www.youtube.com/@mhidesign5822/playlists (TR)
+
+- https://www.youtube.com/@bahtiyar.bayram/playlists (TR)
+
+- https://www.youtube.com/@PratikBilgi/playlists (TR)
 
 - https://www.picproje.org/index.php (TR)
 
