@@ -690,6 +690,30 @@
 
 
 
+### Embedded Systems
+
+- https://www.youtube.com/@stmicroelectronics/playlists
+
+- https://www.youtube.com/@geneschroedertech7501/playlists
+
+- https://www.youtube.com/@ControllersTech/playlists
+
+- https://www.youtube.com/@mutexembedded2206/playlists
+
+- https://www.youtube.com/@RADAS_Official/playlists
+
+- https://www.youtube.com/@PhilsLab/playlists
+
+- https://www.youtube.com/@Weblearning1/playlists
+
+- https://www.youtube.com/@EdwinFairchild/playlists
+
+- https://www.youtube.com/@PbelectroniqueOfficiel/playlists
+
+- https://www.youtube.com/@CalebMarting/playlists
+
+
+
 ### Open Courses
 
 - https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A21
