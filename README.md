@@ -352,6 +352,8 @@
 
 - https://www.hackinscience.org/
 
+- https://www.youtube.com/@KendiCapindaMuhendis/playlists (TR)
+
 - https://pytube.io/en/latest/
 
 - https://matplotlib.org/stable/index.html
