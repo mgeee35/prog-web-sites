@@ -712,6 +712,32 @@
 
 - https://www.youtube.com/@CalebMarting/playlists
 
+- https://www.youtube.com/@coskuntasdemirYoutube/playlists (TR)
+
+- https://www.youtube.com/@gomulusistemlermuhendislik9213/playlists (TR)
+
+- https://www.youtube.com/@EmreErbas/playlists (TR)
+
+- https://www.youtube.com/@MuhammedFatihKOSEOGLU/playlists (TR)
+
+- https://www.youtube.com/@ElektronikOfisim/playlists (TR)
+
+- https://www.youtube.com/@GomuluMuhendis/playlists (TR)
+
+- https://www.youtube.com/@elanktronik1338/playlists (TR)
+
+- https://www.youtube.com/@electrobrains/playlists (TR)
+
+- https://www.youtube.com/@teknolab1926/playlists (TR)
+
+- https://www.youtube.com/@MehmetMCU/playlists (TR)
+
+- https://www.youtube.com/@EnesCicekEmbeddedSystems/videos (TR)
+
+- https://www.youtube.com/@farukgoksu9088/playlists (TR)
+
+- https://www.picproje.org/index.php (TR)
+
 
 
 ### Open Courses
