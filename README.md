@@ -4,6 +4,8 @@
 
 - https://linuxcommandlibrary.com/basics
 
+- https://linuxjourney.com/
+
 - https://linux-dersleri.github.io/ (TR)
 
 - https://linux-yonetimi.veriteknik.net.tr/ (TR)
@@ -334,6 +336,8 @@
 
 - https://docs.python.org/3/py-modindex.html (240+ modules Std Lib)
 
+- https://www.pythoncheatsheet.org/
+
 - https://python-istihza.yazbel.com/ (TR)
 
 - https://python.yemreak.com/ (TR)
@@ -538,6 +542,8 @@
 
 - https://www.30dayscoding.com/
 
+- https://www.youtube.com/@engindemirog2946/playlists (TR)
+
 
 
 ### RegEx (Regular Expression)
@@ -657,6 +663,8 @@
 ### Security
 
 - https://guvenlik.oyd.org.tr/ (TR)
+
+- https://github.com/LuNiZz/siber-guvenlik-sss (TR)
 
 - https://portswigger.net/web-security/learning-path
 
