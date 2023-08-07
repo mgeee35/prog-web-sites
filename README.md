@@ -44,6 +44,8 @@
 
 - https://www.tutorialspoint.com/index.htm
 
+- https://www.w3schools.com/
+
 - https://www.javatpoint.com/
 
 - https://www.guru99.com/
@@ -51,8 +53,6 @@
 - https://www.softwaretestinghelp.com/
 
 - https://www.programiz.com/
-
-- https://www.w3schools.com/
 
 - https://www.w3schools.in/
 
