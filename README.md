@@ -104,6 +104,8 @@
 
 - https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
+- https://www.youtube.com/@AlgoritmaUzman/playlists (TR)
+
 - https://tektasi.net/algoritma/ (TR)
 
 - https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
@@ -207,6 +209,8 @@
 - http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp (TR)
 
 - https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak (TR)
+
+- https://www.youtube.com/@bahadirmemis/playlists (TR)
 
 - https://www.oodesign.com/
 
@@ -326,6 +330,8 @@
 
 - https://rifatshahriyar.github.io/CSE107.html
 
+- https://www.youtube.com/@bahadirsevim/playlists (TR)
+
 - https://www.youtube.com/@KesifPlus/playlists (TR)
 
 
@@ -363,6 +369,8 @@
 - https://www.learnpython.org/
 
 - https://www.hackinscience.org/
+
+- https://www.youtube.com/@evieplusAcademy/playlists (TR)
 
 - https://www.youtube.com/@KendiCapindaMuhendis/playlists (TR)
 
@@ -460,6 +468,10 @@
 
 - https://www.npmjs.com/package/socket.io
 
+- https://www.youtube.com/@mustafafiliz8918/playlists (TR)
+
+- https://www.youtube.com/@PROTOTURKCOM/playlists (TR)
+
 
 
 ### SQL Programming
@@ -550,7 +562,29 @@
 
 - https://www.30dayscoding.com/
 
+- https://www.youtube.com/@kriptarium/playlists (TR)
+
+- https://www.youtube.com/@Sadievrenseker_BK/playlists (TR)
+
+- https://www.youtube.com/@mucityazlm5182/playlists (TR)
+
 - https://www.youtube.com/@engindemirog2946/playlists (TR)
+
+- https://www.youtube.com/@ArinYazilim/playlists (TR)
+
+- https://www.youtube.com/@sina5an/playlists (TR)
+
+- https://www.youtube.com/c/bidoluyazılım/playlists (TR)
+
+- https://www.youtube.com/@orioninnovationturkeytechc4617/playlists (TR)
+
+- https://www.youtube.com/@kablosuzkedi/playlists (TR)
+
+- https://www.youtube.com/@turkcekubernetes8595/playlists (TR)
+
+- https://www.youtube.com/@suleymanseker/playlists (TR)
+
+- https://www.youtube.com/@TurkceKaynak/playlists (TR)
 
 - https://soft.connect4techs.com/category/programming/
 
