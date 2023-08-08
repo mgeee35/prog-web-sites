@@ -354,6 +354,8 @@
 
 - https://pythondocs.xyz/
 
+- https://samcodehub.com/
+
 - https://github.com/pamoroso/free-python-books
 
 - https://www.pyturk.com/ (TR)
@@ -518,6 +520,10 @@
 
 - https://devurls.com/
 
+- https://go.dev/
+
+- https://gobyexample.com/
+
 - https://go.kaanksc.com/kitap-hakkinda/giris (TR)
 
 - https://dzone.com/refcardz/
@@ -525,6 +531,8 @@
 - https://www.newthinktank.com/
 
 - https://www.youtube.com/@derekbanas/playlists
+
+- https://www.turkninja.com/
 
 - https://www.gencayyildiz.com/blog/ (TR)
 
@@ -543,6 +551,8 @@
 - https://www.30dayscoding.com/
 
 - https://www.youtube.com/@engindemirog2946/playlists (TR)
+
+- https://soft.connect4techs.com/category/programming/
 
 
 
@@ -612,7 +622,7 @@
 
 - https://jsoncrack.com/ (just JSON)
 
-- https://app.quicktype.io/ (just JSON)
+- https://quicktype.io/ (just JSON)
 
 - https://dartj.web.app/#/ (just JSON)
 
@@ -837,6 +847,8 @@
 - https://gist.github.com/alexpchin/dc91e723d4db5018fef8#file-setting_upa_new_repo-md
 
 - https://engineeringfordatascience.com/posts/how_to_manage_multiple_git_accounts_on_the_same_machine/
+
+- https://github.com/git-guides
 
 - https://cli.github.com/manual/
 
