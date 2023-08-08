@@ -532,7 +532,7 @@
 
 - https://www.youtube.com/@derekbanas/playlists
 
-- https://www.turkninja.com/
+- https://www.turkninja.com/ (TR)
 
 - https://www.gencayyildiz.com/blog/ (TR)
 
