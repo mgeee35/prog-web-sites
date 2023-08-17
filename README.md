@@ -272,6 +272,8 @@
 
 - https://makefiletutorial.com/
 
+- https://gcc-explorer.com/
+
 - https://www.youtube.com/@CSDVideoChannel/videos (TR)
 
 - https://www.youtube.com/@necatiergin/playlists (TR)
@@ -399,6 +401,14 @@
 - https://www.pygame.org/news
 
 - https://www.renpy.org/
+
+- https://www.riverbankcomputing.com/software/pyqt/
+
+- https://pypi.org/project/PySide/
+
+- https://www.pysimplegui.org/en/latest/
+
+- https://wxpython.org/
 
 - https://pyscript.net/
 
@@ -707,6 +717,8 @@
 ### Security
 
 - https://guvenlik.oyd.org.tr/ (TR)
+
+- https://turkcelloffensivesecurity.gitbook.io/guvenli-kod-gelistirme-kitapcigi/ (TR)
 
 - https://github.com/LuNiZz/siber-guvenlik-sss (TR)
 
