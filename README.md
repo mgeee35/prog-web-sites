@@ -76,6 +76,12 @@
 
 - https://pythontutor.com/
 
+- https://www.youtube.com/@freecodecamp/playlists
+
+- https://www.youtube.com/@ProgrammingKnowledge/playlists
+
+- [Dictionary for IT](https://statik.tse.org.tr/upload/tr/dosya/icerikyonetimi/552/19012016170409-4.pdf) (TR)
+
 
 
 ### Algorithm Websites
@@ -282,6 +288,8 @@
 
 - https://www.linkedin.com/pulse/yoda-notation-may-force-you-alper-yazar
 
+- http://www.pvv.org/~hakonhal/main.cgi/c
+
 
 
 ### Java Programming
@@ -361,6 +369,10 @@
 - https://pyformat.info/
 
 - https://pythondocs.xyz/
+
+- https://easypythondocs.com/
+
+- https://pythonexamples.org/
 
 - https://samcodehub.com/
 
@@ -551,6 +563,8 @@
 - https://dzone.com/refcardz/
 
 - https://www.newthinktank.com/
+
+- https://www.tutorialstonight.com/
 
 - https://www.youtube.com/@derekbanas/playlists
 
@@ -843,6 +857,8 @@
 
 
 ### Code Sharing
+
+- https://wtools.io/
 
 - https://pastebin.pl/
 
