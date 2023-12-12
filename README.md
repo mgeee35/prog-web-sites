@@ -398,7 +398,7 @@
 
 - https://www.fabfile.org/
 
-- https://pyjnius.readthedocs.io/en/stable/
+- https://pyjnius.readthedocs.io/en/latest/
 
 - https://api.arcade.academy/en/latest/
 
@@ -432,7 +432,7 @@
 
 - https://github.com/PyCQA/pyflakes
 
-- https://www.pylint.org/
+- https://pylint.readthedocs.io/en/latest/
 
 - https://pycqa.github.io/isort/
 
@@ -462,7 +462,7 @@
 
 - https://eloquentjavascript.net/
 
-- https://bonsaiden.github.io/JavaScript-Garden/
+- https://github.com/BonsaiDen/JavaScript-Garden
 
 - https://www.typescriptlang.org/
 
@@ -482,7 +482,7 @@
 
 - https://www.npmjs.com/package/socket.io
 
-- https://www.youtube.com/@mustafafiliz8918/playlists (TR)
+- https://www.youtube.com/@mustafa_filiz/playlists (TR)
 
 - https://www.youtube.com/@PROTOTURKCOM/playlists (TR)
 
@@ -800,7 +800,7 @@
 
 - https://www.youtube.com/@MuhammedFatihKOSEOGLU/playlists (TR)
 
-- https://www.youtube.com/@ElektronikOfisim/playlists (TR)
+- https://www.youtube.com/@arif_mandal/playlists (TR)
 
 - https://www.youtube.com/@GomuluMuhendis/playlists (TR)
 
@@ -842,8 +842,6 @@
 
 - https://www.open.edu/openlearn/
 
-- https://eacikkaynak.com/kurslar (TR)
-
 - https://acikders.tuba.gov.tr/course/index.php?categoryid=38 (TR)
 
 - https://acikders.ankara.edu.tr/course/index.php?categoryid=18 (TR)
@@ -858,15 +856,13 @@
 
 - https://pastebin.pl/
 
-- https://pastehub.net/
-
 - https://pastecode.io/
 
 - https://controlc.com/
 
 - https://rentry.co/
 
-- https://0bin.net/
+- https://zerobin.net/
 
 - https://dpaste.org/
 
