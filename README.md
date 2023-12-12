@@ -16,7 +16,7 @@
 
 - https://tldp.org/guides.html
 
-- http://www.belgeler.org/ (TR)
+- http://www.belgeler.org.tr/ (TR)
 
 - http://www.yolinux.com/
 
@@ -79,8 +79,6 @@
 - https://www.youtube.com/@freecodecamp/playlists
 
 - https://www.youtube.com/@ProgrammingKnowledge/playlists
-
-- [Dictionary for IT](https://statik.tse.org.tr/upload/tr/dosya/icerikyonetimi/552/19012016170409-4.pdf) (TR)
 
 
 
@@ -148,10 +146,6 @@
 
 - https://www.hackerearth.com/
 
-- https://app.patika.dev/ (TR)
-
-- https://www.techcareer.net/ (TR)
-
 - https://edabit.com/challenges
 
 - https://www.freecodecamp.org/learn/
@@ -212,7 +206,7 @@
 
 - https://rules.sonarsource.com/
 
-- http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp (TR)
+- https://web.archive.org/web/20221001074943/http://www.tasarimdesenleri.com/jsp/tasdes/tasdesnedir.jsp (TR)
 
 - https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak (TR)
 
@@ -224,7 +218,7 @@
 
 - https://sourcemaking.com/
 
-- http://www.w3sdesign.com/
+- https://web.archive.org/web/20230922010847/https://w3sdesign.com/
 
 - https://www.javacamp.org/designPattern/index.html
 
@@ -248,7 +242,7 @@
 
 - https://www.cprogramming.com/
 
-- https://learn-c.org/
+- https://www.learn-c.org/
 
 - https://www.learn-cpp.org/
 
@@ -286,8 +280,6 @@
 
 - https://github.com/ioccc-src
 
-- https://www.linkedin.com/pulse/yoda-notation-may-force-you-alper-yazar
-
 - http://www.pvv.org/~hakonhal/main.cgi/c
 
 
@@ -302,11 +294,11 @@
 
 - https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html (TR)
 
-- https://www.injavawetrust.com/ (TR)
+- https://web.archive.org/web/20230830040109/https://www.injavawetrust.com/ (TR)
 
 - https://www.seckintozlu.com/effective-java-cevirisi (TR)
 
-- https://www.youtube.com/@FurkanSonmez10/playlists (TR)
+- https://www.youtube.com/@mrsonmez10/playlists (TR)
 
 - https://blog.burakkutbay.com/ (TR)
 
@@ -324,7 +316,7 @@
 
 - https://www.baeldung.com/
 
-- https://www.java-source.net/
+- https://web.archive.org/web/20230830014900/https://java-source.net/
 
 - https://github.com/melihsakarya/java-kitap (TR)
 
@@ -543,6 +535,10 @@
 - https://online.dr-chuck.com/
 
 - https://gelecegiyazanlar.turkcell.com.tr/egitimler (TR)
+
+- https://app.patika.dev/ (TR)
+
+- https://www.risein.com/
 
 - https://www.knowprogram.com/
 
