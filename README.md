@@ -120,6 +120,8 @@
 
 - https://sp23.datastructur.es/
 
+- https://cs50.harvard.edu/x/2023/
+
 - https://www.eeweb.com/tools/math-help/
 
 
