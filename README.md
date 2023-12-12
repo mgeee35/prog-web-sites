@@ -232,6 +232,8 @@
 
 - https://reconshell.com/javascript-design-patterns/
 
+- https://wmaraci.com/blog/her-gelistiricinin-bilmesi-gereken-10-programlama-prensibi-966 (TR)
+
 
 
 ### C/C++ Programming
@@ -272,6 +274,8 @@
 
 - https://makefiletutorial.com/
 
+- https://xmake.io/#/
+
 - https://gcc-explorer.com/
 
 - https://www.youtube.com/@CSDVideoChannel/videos (TR)
@@ -281,6 +285,8 @@
 - https://github.com/ioccc-src
 
 - http://www.pvv.org/~hakonhal/main.cgi/c
+
+- https://tulipindicators.org/
 
 
 
@@ -323,6 +329,8 @@
 - https://javaranch.com/
 
 - https://spring.io/guides
+
+- https://www.zkoss.org/
 
 - https://www.javacamp.org/index.html
 
@@ -405,6 +413,8 @@
 - https://www.pygame.org/news
 
 - https://www.renpy.org/
+
+- https://www.pythonguis.com/
 
 - https://www.riverbankcomputing.com/software/pyqt/
 
@@ -540,6 +550,10 @@
 
 - https://www.risein.com/
 
+- https://training.epam.com/
+
+- https://learn.saylor.org/
+
 - https://www.knowprogram.com/
 
 - https://www.w3resource.com/
@@ -593,6 +607,8 @@
 - https://www.youtube.com/@ArinYazilim/playlists (TR)
 
 - https://www.youtube.com/@sina5an/playlists (TR)
+
+- https://www.youtube.com/@GencayYildiz/playlists (TR)
 
 - https://www.youtube.com/c/bidoluyazılım/playlists (TR)
 
@@ -874,6 +890,8 @@
 
 - https://linkode.org/
 
+- https://codeshare.io/
+
 
 
 ### Programming Roadmaps
@@ -889,6 +907,10 @@
 - https://git-scm.com/
 
 - https://learngitbranching.js.org/
+
+- https://missing.csail.mit.edu/2020/version-control/
+
+- https://missing-semester-tr.github.io/2020/version-control/ (TR)
 
 - https://sourcegraph.com/search
 
@@ -907,6 +929,8 @@
 - https://cli.github.com/manual/
 
 - https://codeberg.org/
+
+- https://markdown-hub.vercel.app/
 
 
 
