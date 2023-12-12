@@ -544,16 +544,6 @@
 
 - https://online.dr-chuck.com/
 
-- https://gelecegiyazanlar.turkcell.com.tr/egitimler (TR)
-
-- https://app.patika.dev/ (TR)
-
-- https://www.risein.com/
-
-- https://training.epam.com/
-
-- https://learn.saylor.org/
-
 - https://www.knowprogram.com/
 
 - https://www.w3resource.com/
@@ -863,6 +853,20 @@
 - https://acikders.ankara.edu.tr/course/index.php?categoryid=18 (TR)
 
 - https://open.sap.com/
+
+- https://www.edx.org/certificates/professional-certificate
+
+- https://www.coursera.org/professional-certificates/
+
+- https://gelecegiyazanlar.turkcell.com.tr/egitimler (TR)
+
+- https://app.patika.dev/ (TR)
+
+- https://www.risein.com/
+
+- https://training.epam.com/
+
+- https://learn.saylor.org/
 
 
 
