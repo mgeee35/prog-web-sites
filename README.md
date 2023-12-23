@@ -572,6 +572,8 @@
 
 - https://www.turkninja.com/ (TR)
 
+- https://kerteriz.net/ (TR)
+
 - https://www.gencayyildiz.com/blog/ (TR)
 
 - https://yasar11732.github.io/ (TR)
