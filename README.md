@@ -300,7 +300,7 @@
 
 - https://www.javacoffeebreak.com/books/extracts/javanotesv3/index.html
 
-- https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html (TR)
+- https://web.archive.org/web/20220113055339/https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html (TR)
 
 - https://web.archive.org/web/20230830040109/https://www.injavawetrust.com/ (TR)
 
