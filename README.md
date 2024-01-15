@@ -36,6 +36,8 @@
 
 - https://unixtime.org/
 
+- https://www.youtube.com/@DevopsYolu/playlists (TR)
+
 
 
 ### All About Software
@@ -59,6 +61,8 @@
 - https://goalkicker.com/
 
 - https://github.com/mtdvio/every-programmer-should-know
+
+- https://www.youtube.com/@FolksDev/playlists (TR)
 
 - https://erdincuzun.com/ (TR)
 
@@ -300,15 +304,25 @@
 
 - https://www.javacoffeebreak.com/books/extracts/javanotesv3/index.html
 
+- http://www.kurumsaljava.com/ (TR)
+
 - https://web.archive.org/web/20220113055339/https://www.fibiler.com/Divisions/Ehil/Muhit/Top/Entry/txt/html/cover_main.html (TR)
 
 - https://web.archive.org/web/20230830040109/https://www.injavawetrust.com/ (TR)
 
 - https://www.seckintozlu.com/effective-java-cevirisi (TR)
 
+- https://www.youtube.com/@turkishjavadeveloper3388/playlists (TR)
+
 - https://www.youtube.com/@mrsonmez10/playlists (TR)
 
 - https://blog.burakkutbay.com/ (TR)
+
+- https://www.youtube.com/@brkktby/playlists (TR)
+
+- https://www.youtube.com/@BarisDere/playlists (TR)
+
+- https://www.youtube.com/@dilrubakose/playlists (TR)
 
 - https://javabeginnerstutorial.com/
 
@@ -345,6 +359,8 @@
 - https://www.youtube.com/@bahadirsevim/playlists (TR)
 
 - https://www.youtube.com/@KesifPlus/playlists (TR)
+
+- https://www.youtube.com/@KodlamaVakti/playlists (TR)
 
 
 
@@ -575,6 +591,8 @@
 - https://kerteriz.net/ (TR)
 
 - https://www.gencayyildiz.com/blog/ (TR)
+
+- https://www.youtube.com/@TechBuddyTR/playlists (TR)
 
 - https://yasar11732.github.io/ (TR)
 
