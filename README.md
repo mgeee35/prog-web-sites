@@ -474,6 +474,8 @@
 
 - https://bandit.readthedocs.io/en/latest/
 
+- https://www.youtube.com/@engindemirog2946/streams (TR)
+
 
 
 ### JavaScript Programming
@@ -550,6 +552,8 @@
 
 ### Programming Languages Websites
 
+- https://0.30000000000000004.com/
+
 - https://devdocs.io/
 
 - https://overapi.com/
@@ -613,8 +617,6 @@
 - https://www.youtube.com/@Sadievrenseker_BK/playlists (TR)
 
 - https://www.youtube.com/@mucityazlm5182/playlists (TR)
-
-- https://www.youtube.com/@engindemirog2946/playlists (TR)
 
 - https://www.youtube.com/@ArinYazilim/playlists (TR)
 
