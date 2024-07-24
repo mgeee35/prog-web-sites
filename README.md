@@ -38,6 +38,8 @@
 
 - https://www.youtube.com/@DevopsYolu/playlists (TR)
 
+- https://distrowatch.com/
+
 
 
 ### All About Software
