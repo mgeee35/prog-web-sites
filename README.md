@@ -12,7 +12,7 @@
 
 - https://sulincix.github.io/sayfalar/ (TR)
 
-- http://cayfer.bilkent.edu.tr/~cayfer/ (TR)
+- https://web.archive.org/web/20180419152520/http://cayfer.bilkent.edu.tr/~cayfer (TR)
 
 - https://tldp.org/guides.html
 
@@ -362,6 +362,8 @@
 
 - https://www.youtube.com/@KodlamaVakti/playlists (TR)
 
+- https://www.youtube.com/@FurkanBaysan/playlists (TR)
+
 
 
 ### Python Programming
@@ -475,6 +477,8 @@
 - https://bandit.readthedocs.io/en/latest/
 
 - https://www.youtube.com/@engindemirog2946/streams (TR)
+
+- https://www.youtube.com/@SinanUrun/playlists (TR)
 
 
 
