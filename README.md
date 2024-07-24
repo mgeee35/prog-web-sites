@@ -218,6 +218,8 @@
 
 - https://www.youtube.com/@bahadirmemis/playlists (TR)
 
+- https://github.com/sbahadirm/TasarimKaliplari
+
 - https://www.oodesign.com/
 
 - https://refactoring.guru/
@@ -363,6 +365,8 @@
 - https://www.youtube.com/@KodlamaVakti/playlists (TR)
 
 - https://www.youtube.com/@FurkanBaysan/playlists (TR)
+
+- https://www.youtube.com/@TurkiyeJavaCommunity/streams (TR)
 
 
 
@@ -520,6 +524,8 @@
 
 - https://www.youtube.com/@PROTOTURKCOM/playlists (TR)
 
+- https://www.youtube.com/@AllThingsJavaScript/playlists
+
 
 
 ### SQL Programming
@@ -639,6 +645,12 @@
 - https://www.youtube.com/@suleymanseker/playlists (TR)
 
 - https://www.youtube.com/@TurkceKaynak/playlists (TR)
+
+- https://www.youtube.com/@MertStack/playlists (TR)
+
+- https://www.youtube.com/@bilgeokul4114/playlists (TR)
+
+- https://www.youtube.com/@DevnotTV/streams (TR)
 
 - https://soft.connect4techs.com/category/programming/
 
