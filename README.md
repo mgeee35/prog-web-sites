@@ -296,6 +296,10 @@
 
 - https://tulipindicators.org/
 
+- https://www.youtube.com/@TurkeyCpp/playlists (TR)
+
+- https://www.youtube.com/@VolatilePointer/playlists
+
 
 
 ### Java Programming
@@ -367,6 +371,8 @@
 - https://www.youtube.com/@FurkanBaysan/playlists (TR)
 
 - https://www.youtube.com/@TurkiyeJavaCommunity/streams (TR)
+
+- https://www.youtube.com/@IstanbulJavaUserGroup/playlists (TR)
 
 
 
@@ -484,6 +490,8 @@
 
 - https://www.youtube.com/@SinanUrun/playlists (TR)
 
+- https://www.youtube.com/@alperakbash/playlists (TR)
+
 
 
 ### JavaScript Programming
@@ -526,6 +534,8 @@
 
 - https://www.youtube.com/@AllThingsJavaScript/playlists
 
+- https://www.youtube.com/c/Arma%C4%9FanAmcalar/playlists (TR)
+
 
 
 ### SQL Programming
@@ -557,6 +567,8 @@
 - https://sql.js.org/#/
 
 - https://github.com/sql-js/sql.js/
+
+- https://www.youtube.com/@DatabaseStar/playlists
 
 
 
@@ -650,7 +662,21 @@
 
 - https://www.youtube.com/@bilgeokul4114/playlists (TR)
 
+- https://www.youtube.com/@ProgramWithGio/playlists
+
+- https://www.youtube.com/@GaryClarkeTech/playlists
+
 - https://www.youtube.com/@DevnotTV/streams (TR)
+
+- https://www.youtube.com/@HasanZekiAlp/playlists (TR)
+
+- https://www.youtube.com/@hanzelkaraagac/playlists (TR)
+
+- https://www.youtube.com/@TarikGuney/playlists (TR)
+
+- https://www.youtube.com/@amigoscode/playlists
+
+- https://www.youtube.com/@VinsloevAcademy/playlists
 
 - https://soft.connect4techs.com/category/programming/
 
@@ -768,6 +794,8 @@
 
 - https://sp-pifo.ethz.ch/
 
+- https://www.youtube.com/@MDUZGUNN/playlists (TR)
+
 
 
 ### Security
@@ -875,6 +903,10 @@
 - https://www.youtube.com/@bahtiyar.bayram/playlists (TR)
 
 - https://www.youtube.com/@PratikBilgi/playlists (TR)
+
+- https://www.youtube.com/@oguz_ergin/playlists (TR)
+
+- https://www.youtube.com/@Expaths/playlists (TR)
 
 - https://www.picproje.org/index.php (TR)
 
