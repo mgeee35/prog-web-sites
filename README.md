@@ -218,7 +218,7 @@
 
 - https://www.youtube.com/@bahadirmemis/playlists (TR)
 
-- https://github.com/sbahadirm/TasarimKaliplari
+- https://github.com/sbahadirm/TasarimKaliplari (TR)
 
 - https://www.oodesign.com/
 
