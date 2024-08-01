@@ -332,6 +332,10 @@
 
 - https://www.youtube.com/@dilrubakose/playlists (TR)
 
+- https://www.javaguides.net/
+
+- https://www.youtube.com/@JavaGuides/playlists
+
 - https://javabeginnerstutorial.com/
 
 - https://www.journaldev.com/
@@ -388,7 +392,7 @@
 
 - https://python-istihza.yazbel.com/ (TR)
 
-- https://python.yemreak.com/ (TR)
+- https://docs.yemreak.com/ (TR)
 
 - https://github.com/hirelaxstudio/python_tutorial_tr/ (TR)
 
@@ -418,7 +422,7 @@
 
 - https://www.youtube.com/@evieplusAcademy/playlists (TR)
 
-- https://www.youtube.com/@KendiCapindaMuhendis/playlists (TR)
+- https://www.youtube.com/c/Kendi%C3%87ap%C4%B1ndaM%C3%BChendis/playlists (TR)
 
 - https://pytube.io/en/latest/
 
@@ -493,6 +497,8 @@
 - https://www.youtube.com/@SinanUrun/playlists (TR)
 
 - https://www.youtube.com/@alperakbash/playlists (TR)
+
+- https://i.ritzastatic.com/learn-python-the-right-way/learn-python-the-right-way.pdf
 
 
 
@@ -620,6 +626,8 @@
 
 - https://www.gencayyildiz.com/blog/ (TR)
 
+- https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z/playlists (TR)
+
 - https://www.youtube.com/@TechBuddyTR/playlists (TR)
 
 - https://yasar11732.github.io/ (TR)
@@ -646,8 +654,6 @@
 
 - https://www.youtube.com/@sina5an/playlists (TR)
 
-- https://www.youtube.com/@GencayYildiz/playlists (TR)
-
 - https://www.youtube.com/c/bidoluyazılım/playlists (TR)
 
 - https://www.youtube.com/@orioninnovationturkeytechc4617/playlists (TR)
@@ -658,7 +664,7 @@
 
 - https://www.youtube.com/@suleymanseker/playlists (TR)
 
-- https://www.youtube.com/@TurkceKaynak/playlists (TR)
+- https://www.youtube.com/c/T%C3%BCrk%C3%A7eKaynak/playlists (TR)
 
 - https://www.youtube.com/@MertStack/playlists (TR)
 
@@ -874,11 +880,11 @@
 
 - https://www.youtube.com/@EmreErbas/playlists (TR)
 
-- https://www.youtube.com/@MuhammedFatihKOSEOGLU/playlists (TR)
+- https://www.youtube.com/c/MuhammedFatihK%C3%96SEO%C4%9ELU/playlists (TR)
 
 - https://www.youtube.com/@arif_mandal/playlists (TR)
 
-- https://www.youtube.com/@GomuluMuhendis/playlists (TR)
+- https://www.youtube.com/c/G%C3%B6m%C3%BCl%C3%BCM%C3%BChendis/playlists (TR)
 
 - https://www.youtube.com/@elanktronik1338/playlists (TR)
 
@@ -892,7 +898,7 @@
 
 - https://www.youtube.com/@MehmetMCU/playlists (TR)
 
-- https://www.youtube.com/@EnesCicekEmbeddedSystems/videos (TR)
+- https://www.youtube.com/c/Enes%C3%87i%C3%A7ekEmbeddedSystems/videos (TR)
 
 - https://www.youtube.com/@farukgoksu9088/playlists (TR)
 
